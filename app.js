@@ -1,7 +1,8 @@
 // REQUIRED MODULES
 const express = require('express');
 const app = express();
-
+// REQUIRE DATA
+const { projects } = require('./data.json');
 // SETTINGS
 
 app.set('view engine', 'pug');
