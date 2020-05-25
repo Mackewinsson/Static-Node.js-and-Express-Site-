@@ -148,3 +148,17 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+/* STYLES ADDED TO THE PROJECT */
+
+h1{
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+body{
+  background-color: lightgray;
+}
+
+
